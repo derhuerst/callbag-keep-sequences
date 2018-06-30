@@ -7,7 +7,12 @@
 		"index.js"
 	],
 	"keywords": [
-		"callbag", "sequence", "minimum", "length", "filter", "streak"
+		"callbag",
+		"sequence",
+		"minimum",
+		"length",
+		"filter",
+		"streak"
 	],
 	"author": "Jannis R <mail@jannisr.de>",
 	"homepage": "https://github.com/derhuerst/callbag-keep-sequences",
@@ -20,5 +25,10 @@
 	"scripts": {
 		"test": "node test.js",
 		"prepublishOnly": "npm test"
+	},
+	"devDependencies": {
+		"callbag-for-each": "^1.0.1",
+		"callbag-from-iter": "^1.2.0",
+		"callbag-pipe": "^1.1.1"
 	}
 }
