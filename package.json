@@ -1,0 +1,24 @@
+{
+	"name": "callbag-keep-sequences",
+	"description": "A callbag operator that passes through only sequences with minimum length.",
+	"version": "1.0.0",
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"callbag", "sequence", "minimum", "length", "filter", "streak"
+	],
+	"author": "Jannis R <mail@jannisr.de>",
+	"homepage": "https://github.com/derhuerst/callbag-keep-sequences",
+	"repository": "derhuerst/callbag-keep-sequences",
+	"bugs": "https://github.com/derhuerst/callbag-keep-sequences/issues",
+	"license": "ISC",
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "node test.js",
+		"prepublishOnly": "npm test"
+	}
+}
