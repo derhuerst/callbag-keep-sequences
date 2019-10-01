@@ -12,7 +12,7 @@
 [![build status](https://api.travis-ci.org/derhuerst/callbag-keep-sequences.svg?branch=master)](https://travis-ci.org/derhuerst/callbag-keep-sequences)
 ![ISC-licensed](https://img.shields.io/github/license/derhuerst/callbag-keep-sequences.svg)
 [![chat with me on Gitter](https://img.shields.io/badge/chat%20with%20me-on%20gitter-512e92.svg)](https://gitter.im/derhuerst)
-[![support me on Patreon](https://img.shields.io/badge/support%20me-on%20patreon-fa7664.svg)](https://patreon.com/derhuerst)
+[![support me on Patreon](https://img.shields.io/badge/support%20me-on%20patreon-fa7664.svg)](https://patreon.com/derhuerst) [![Greenkeeper badge](https://badges.greenkeeper.io/derhuerst/callbag-keep-sequences.svg)](https://greenkeeper.io/)
 
 
 ## Installation
